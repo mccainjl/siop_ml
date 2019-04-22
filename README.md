@@ -1,6 +1,6 @@
 # Entry for 2019 SIOP Machine Learning Competition
 
-This repo contains the submission my team, the Machined Learnings, created for the 2019 Society for Industrial and Organizational Psychology Machine Learning Competition.
+This repo contains the submission my team, the Machined Learnings, created for the 2019 [Society for Industrial and Organizational Psychology Machine Learning Competition](https://evalai.cloudcv.org/web/challenges/challenge-page/160/overview).
 This competition was my first big experience working with other coders in Python, using Jupyter Notebooks, on a project.  We collaborated via BitBucket, and communicated via
 Slack, giving me great exposure to both of these platforms.  It was a great experience I hope to repeat in the future, and although we placed 28th, I am proud of the learning
 and collaboration that took place.
@@ -10,7 +10,7 @@ and collaboration that took place.
 My team consisted primarily of myself and another programmer, with two other psychology students to provide information and support.  I had an in-depth statistics background
 (including regression, the basis of machine learning) and experience with R, while he had relatively little background in machine learning but years of experience using Python.
 We were tasked by the competition with using Natural Language Programming (NLP) to analyze a set of open-ended text responses (called situational judgment items from job interviews)
-and generate a machine learning model using these to predict Big Five Personality scores.  We received a training dataset to work on for the first couple of months, then a testing
+and generate a machine learning model using these to predict [Big Five Personality scores] (https://en.wikipedia.org/wiki/Big_Five_personality_traits).  We received a training dataset to work on for the first couple of months, then a testing
 dataset to see what amount of added variance we were able to account for (measured by a RMSE idex).  Both of these datasets can be found in the repo under the names 'siop_ml_train_participant.csv'
 and 'siop_ml_dev_participant.csv' respectively.  
 
@@ -67,3 +67,5 @@ From this experience, other than learning to use nltk, sklearn, and magic comman
   
 Most importantly, I learned that I could hold my own in and enjoy a collaborative coding experience in a relatively new coding language.  I had a great time, even with all of the challenges I faced.  In fact, the challenges made the experience
 better.  I now have so many new concepts with machine learning and NLP to explore!
+
+The results of the competition can be found here: https://github.com/izk8/2019_SIOP_Machine_Learning_Winners
